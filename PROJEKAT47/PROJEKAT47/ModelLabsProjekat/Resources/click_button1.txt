@@ -1,0 +1,41 @@
+StringBuilder s = new StringBuilder();
+            //tip i property za izabrani gid
+            long gid = 0;
+            gid = (long)comboBox1.SelectedItem;
+
+            ResourceDescription rd = new ResourceDescription();
+            rd = gda.GetValues(gid);
+            int j = 0;
+            int i;
+            short tip = ModelCodeHelper.ExtractTypeFromGlobalId(gid);
+            List<ModelCode> prop = mrd.GetAllPropertyIds((DMSType)tip);
+       
+            textBox1.Text = "Tip resursa:" + ((DMSType)ModelCodeHelper.ExtractTypeFromGlobalId(gid)).ToString() + "\n";
+
+            textBox1.Text += "ID: " + s.Append(String.Format("0x{0:x16}", gid)).ToString() + "\n";
+
+            for (i = 0; i < rd.Properties.Count(); i++)
+            {
+                if (rd.Properties[i].Type != PropertyType.ReferenceVector)
+                {
+
+                    textBox1.Text += "Property id: " + prop[i].ToString();
+                        textBox1.Text+=", value: " + rd.Properties[i].ToString() + "\n";
+                      
+                 
+                }
+
+                else
+                {
+                        textBox1.Text += "Property id: " + prop[i].ToString();
+                        for (int x = 0; x < rd.Properties[i].PropertyValue.LongValues.Count(); x++)
+                        {
+
+                            textBox1.Text += ", value: " + rd.Properties[j].PropertyValue.LongValues[x].ToString() + "\n";
+
+                        }
+             
+                }
+             
+
+            }

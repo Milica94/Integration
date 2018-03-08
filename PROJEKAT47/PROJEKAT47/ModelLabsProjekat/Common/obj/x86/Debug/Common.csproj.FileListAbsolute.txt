@@ -1,0 +1,40 @@
+D:\Vezbe\11\ModelLabs\bin\FTN.Common.dll
+D:\Vezbe\11\ModelLabs\bin\FTN.Common.pdb
+D:\Vezbe\11\ModelLabs\Common\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Vezbe\11\ModelLabs\Common\obj\x86\Debug\FTN.Common.dll
+D:\Vezbe\11\ModelLabs\Common\obj\x86\Debug\FTN.Common.pdb
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\bin\FTN.Common.dll
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\bin\FTN.Common.pdb
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.dll
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.pdb
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\bin\FTN.Common.dll
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\bin\FTN.Common.pdb
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.dll
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.pdb
+C:\Users\Nemanja\Desktop\Projekat\ModelLabsProjekat\bin\FTN.Common.dll
+C:\Users\Nemanja\Desktop\Projekat\ModelLabsProjekat\bin\FTN.Common.pdb
+C:\Users\Nemanja\Desktop\Projekat\ModelLabsProjekat\Common\obj\x86\Debug\FTN.Common.dll
+C:\Users\Nemanja\Desktop\Projekat\ModelLabsProjekat\Common\obj\x86\Debug\FTN.Common.pdb
+C:\TEMP\ModelLabsProjekat\ModelLabsProjekat\bin\FTN.Common.dll
+C:\TEMP\ModelLabsProjekat\ModelLabsProjekat\bin\FTN.Common.pdb
+C:\TEMP\ModelLabsProjekat\ModelLabsProjekat\Common\obj\x86\Debug\FTN.Common.dll
+C:\TEMP\ModelLabsProjekat\ModelLabsProjekat\Common\obj\x86\Debug\FTN.Common.pdb
+C:\Users\Milica\Documents\ModelLabsProjekat\bin\FTN.Common.dll
+C:\Users\Milica\Documents\ModelLabsProjekat\bin\FTN.Common.pdb
+C:\Users\Milica\Documents\ModelLabsProjekat\Common\obj\x86\Debug\FTN.Common.dll
+C:\Users\Milica\Documents\ModelLabsProjekat\Common\obj\x86\Debug\FTN.Common.pdb
+C:\TEMP\PROJEKAT47\ModelLabsProjekat\bin\FTN.Common.dll
+C:\TEMP\PROJEKAT47\ModelLabsProjekat\bin\FTN.Common.pdb
+C:\TEMP\PROJEKAT47\ModelLabsProjekat\Common\obj\x86\Debug\FTN.Common.dll
+C:\TEMP\PROJEKAT47\ModelLabsProjekat\Common\obj\x86\Debug\FTN.Common.pdb
+C:\Users\Milica\Documents\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\bin\FTN.Common.dll
+C:\Users\Milica\Documents\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\bin\FTN.Common.pdb
+C:\Users\Milica\Documents\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\Common\obj\x86\Debug\FTN.Common.dll
+C:\Users\Milica\Documents\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\Common\obj\x86\Debug\FTN.Common.pdb
+E:\C\Fakultet\IV godina\INTEGRACIJE_III\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\bin\FTN.Common.dll
+E:\C\Fakultet\IV godina\INTEGRACIJE_III\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\bin\FTN.Common.pdb
+E:\C\Fakultet\IV godina\INTEGRACIJE_III\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\Common\obj\x86\Debug\Common.csprojResolveAssemblyReference.cache
+E:\C\Fakultet\IV godina\INTEGRACIJE_III\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\Common\obj\x86\Debug\FTN.Common.dll
+E:\C\Fakultet\IV godina\INTEGRACIJE_III\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\Common\obj\x86\Debug\FTN.Common.pdb

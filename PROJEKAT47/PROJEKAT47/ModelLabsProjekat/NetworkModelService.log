@@ -1,0 +1,167 @@
+2/6/2017 12:34:05 PM : Starting Network Model Serivice...
+2/6/2017 12:34:08 PM : The WCF service GenericDataAccess is ready.
+2/6/2017 12:34:08 PM : Endpoints:
+2/6/2017 12:34:08 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+2/6/2017 12:34:08 PM : Connection string: ../NetworkModelData.data
+2/6/2017 12:34:08 PM : Trace level: Info
+2/6/2017 12:34:08 PM : The Network Model Service is started.
+2/6/2017 12:34:08 PM : Press <Enter> to stop the service.
+2/6/2017 12:36:20 PM : Starting Network Model Serivice...
+2/6/2017 12:36:21 PM : The WCF service GenericDataAccess is ready.
+2/6/2017 12:36:21 PM : Endpoints:
+2/6/2017 12:36:21 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+2/6/2017 12:36:21 PM : Connection string: ../NetworkModelData.data
+2/6/2017 12:36:21 PM : Trace level: Info
+2/6/2017 12:36:21 PM : The Network Model Service is started.
+2/6/2017 12:36:21 PM : Press <Enter> to stop the service.
+2/6/2017 12:45:30 PM : Starting Network Model Serivice...
+2/6/2017 12:45:32 PM : The WCF service GenericDataAccess is ready.
+2/6/2017 12:45:32 PM : Endpoints:
+2/6/2017 12:45:32 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+2/6/2017 12:45:32 PM : Connection string: ../NetworkModelData.data
+2/6/2017 12:45:32 PM : Trace level: Info
+2/6/2017 12:45:32 PM : The Network Model Service is started.
+2/6/2017 12:45:32 PM : Press <Enter> to stop the service.
+2/6/2017 12:47:34 PM : Starting Network Model Serivice...
+2/6/2017 12:47:36 PM : The WCF service GenericDataAccess is ready.
+2/6/2017 12:47:36 PM : Endpoints:
+2/6/2017 12:47:36 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+2/6/2017 12:47:36 PM : Connection string: ../NetworkModelData.data
+2/6/2017 12:47:36 PM : Trace level: Info
+2/6/2017 12:47:36 PM : The Network Model Service is started.
+2/6/2017 12:47:36 PM : Press <Enter> to stop the service.
+2/6/2017 12:50:44 PM : Starting Network Model Serivice...
+2/6/2017 12:50:46 PM : The WCF service GenericDataAccess is ready.
+2/6/2017 12:50:46 PM : Endpoints:
+2/6/2017 12:50:46 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+2/6/2017 12:50:46 PM : Connection string: ../NetworkModelData.data
+2/6/2017 12:50:46 PM : Trace level: Info
+2/6/2017 12:50:46 PM : The Network Model Service is started.
+2/6/2017 12:50:46 PM : Press <Enter> to stop the service.
+2/6/2017 12:51:20 PM : Starting Network Model Serivice...
+2/6/2017 12:51:22 PM : The WCF service GenericDataAccess is ready.
+2/6/2017 12:51:22 PM : Endpoints:
+2/6/2017 12:51:22 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+2/6/2017 12:51:22 PM : Connection string: ../NetworkModelData.data
+2/6/2017 12:51:22 PM : Trace level: Info
+2/6/2017 12:51:22 PM : The Network Model Service is started.
+2/6/2017 12:51:22 PM : Press <Enter> to stop the service.
+2/6/2017 12:55:03 PM : Starting Network Model Serivice...
+2/6/2017 12:55:04 PM : The WCF service GenericDataAccess is ready.
+2/6/2017 12:55:04 PM : Endpoints:
+2/6/2017 12:55:04 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+2/6/2017 12:55:04 PM : Connection string: ../NetworkModelData.data
+2/6/2017 12:55:04 PM : Trace level: Info
+2/6/2017 12:55:04 PM : The Network Model Service is started.
+2/6/2017 12:55:04 PM : Press <Enter> to stop the service.
+2/6/2017 12:55:19 PM : Applying  delta to network model.
+2/6/2017 12:55:19 PM : Inserting entity with GID (0000000100000001).
+2/6/2017 12:55:19 PM : Inserting entity with GID (0000000200000001).
+2/6/2017 12:55:19 PM : Inserting entity with GID (0000000300000001).
+2/6/2017 12:55:19 PM : Inserting entity with GID (0000000400000001).
+2/6/2017 12:55:19 PM : Inserting entity with GID (0000000500000001).
+2/6/2017 12:55:19 PM : Inserting entity with GID (0000000600000001).
+2/6/2017 12:55:20 PM : Applying delta to network model successfully finished.
+2/6/2017 12:58:10 PM : Failed to get related values for source GID = 0x0000000100000001. Association propertyId = IDOBJ_MRID is not reference or reference vector type..
+2/6/2017 12:58:10 PM : Getting related values for resource with ID = 0x0000000100000001 failed. Failed to get related values for source GID = 0x0000000100000001. Association propertyId = IDOBJ_MRID is not reference or reference vector type..
+2/6/2017 12:58:34 PM : Failed to get related values for source GID = 0x0000000100000001. Entity with GID = 0x0000000100000001 does not contain prperty with Id = EQUIPMENT_EC..
+2/6/2017 12:58:34 PM : Getting related values for resource with ID = 0x0000000100000001 failed. Failed to get related values for source GID = 0x0000000100000001. Entity with GID = 0x0000000100000001 does not contain prperty with Id = EQUIPMENT_EC..
+2/6/2017 12:58:47 PM : Failed to get related values for source GID = 0x0000000100000001. Entity with GID = 0x0000000100000001 does not contain prperty with Id = EQUIPMENT_EC..
+2/6/2017 12:58:47 PM : Getting related values for resource with ID = 0x0000000100000001 failed. Failed to get related values for source GID = 0x0000000100000001. Entity with GID = 0x0000000100000001 does not contain prperty with Id = EQUIPMENT_EC..
+2/6/2017 1:00:03 PM : Starting Network Model Serivice...
+2/6/2017 1:00:04 PM : Inserting entity with GID (0000000100000001).
+2/6/2017 1:00:04 PM : Inserting entity with GID (0000000200000001).
+2/6/2017 1:00:04 PM : Inserting entity with GID (0000000300000001).
+2/6/2017 1:00:04 PM : Inserting entity with GID (0000000400000001).
+2/6/2017 1:00:04 PM : Inserting entity with GID (0000000500000001).
+2/6/2017 1:00:04 PM : Inserting entity with GID (0000000600000001).
+2/6/2017 1:00:05 PM : The WCF service GenericDataAccess is ready.
+2/6/2017 1:00:05 PM : Endpoints:
+2/6/2017 1:00:05 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+2/6/2017 1:00:05 PM : Connection string: ../NetworkModelData.data
+2/6/2017 1:00:05 PM : Trace level: Info
+2/6/2017 1:00:05 PM : The Network Model Service is started.
+2/6/2017 1:00:05 PM : Press <Enter> to stop the service.
+2/6/2017 1:01:12 PM : Starting Network Model Serivice...
+2/6/2017 1:01:13 PM : Inserting entity with GID (0000000100000001).
+2/6/2017 1:01:13 PM : Inserting entity with GID (0000000200000001).
+2/6/2017 1:01:13 PM : Inserting entity with GID (0000000300000001).
+2/6/2017 1:01:13 PM : Inserting entity with GID (0000000400000001).
+2/6/2017 1:01:13 PM : Inserting entity with GID (0000000500000001).
+2/6/2017 1:01:13 PM : Inserting entity with GID (0000000600000001).
+2/6/2017 1:01:14 PM : The WCF service GenericDataAccess is ready.
+2/6/2017 1:01:14 PM : Endpoints:
+2/6/2017 1:01:14 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+2/6/2017 1:01:14 PM : Connection string: ../NetworkModelData.data
+2/6/2017 1:01:14 PM : Trace level: Info
+2/6/2017 1:01:14 PM : The Network Model Service is started.
+2/6/2017 1:01:14 PM : Press <Enter> to stop the service.
+2/6/2017 1:05:11 PM : Failed to get related values for source GID = 0x0000000100000001. Entity with GID = 0x0000000100000001 does not contain prperty with Id = EQUIPMENT_EC..
+2/6/2017 1:05:12 PM : Getting related values for resource with ID = 0x0000000100000001 failed. Failed to get related values for source GID = 0x0000000100000001. Entity with GID = 0x0000000100000001 does not contain prperty with Id = EQUIPMENT_EC..
+2/6/2017 1:05:34 PM : Failed to get related values for source GID = 0x0000000100000001. Entity with GID = 0x0000000100000001 does not contain prperty with Id = EQUIPMENT_EC..
+2/6/2017 1:05:34 PM : Getting related values for resource with ID = 0x0000000100000001 failed. Failed to get related values for source GID = 0x0000000100000001. Entity with GID = 0x0000000100000001 does not contain prperty with Id = EQUIPMENT_EC..
+2/6/2017 1:10:08 PM : Failed to get related values for source GID = 0x0000000100000001. Entity with GID = 0x0000000100000001 does not contain prperty with Id = EQUIPMENT_EC..
+2/6/2017 1:10:08 PM : Getting related values for resource with ID = 0x0000000100000001 failed. Failed to get related values for source GID = 0x0000000100000001. Entity with GID = 0x0000000100000001 does not contain prperty with Id = EQUIPMENT_EC..
+2/6/2017 1:12:49 PM : Starting Network Model Serivice...
+2/6/2017 1:12:50 PM : Inserting entity with GID (0000000100000001).
+2/6/2017 1:12:50 PM : Inserting entity with GID (0000000200000001).
+2/6/2017 1:12:50 PM : Inserting entity with GID (0000000300000001).
+2/6/2017 1:12:50 PM : Inserting entity with GID (0000000400000001).
+2/6/2017 1:12:50 PM : Inserting entity with GID (0000000500000001).
+2/6/2017 1:12:50 PM : Inserting entity with GID (0000000600000001).
+2/6/2017 1:12:51 PM : The WCF service GenericDataAccess is ready.
+2/6/2017 1:12:51 PM : Endpoints:
+2/6/2017 1:12:51 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+2/6/2017 1:12:51 PM : Connection string: ../NetworkModelData.data
+2/6/2017 1:12:51 PM : Trace level: Info
+2/6/2017 1:12:51 PM : The Network Model Service is started.
+2/6/2017 1:12:51 PM : Press <Enter> to stop the service.
+2/6/2017 1:16:48 PM : Failed to get related values for source GID = 0x0000000500000001. Association propertyId = IDOBJ_GID is not reference or reference vector type..
+2/6/2017 1:16:48 PM : Getting related values for resource with ID = 0x0000000500000001 failed. Failed to get related values for source GID = 0x0000000500000001. Association propertyId = IDOBJ_GID is not reference or reference vector type..
+2/6/2017 1:17:15 PM : Starting Network Model Serivice...
+2/6/2017 1:17:15 PM : Inserting entity with GID (0000000100000001).
+2/6/2017 1:17:16 PM : Inserting entity with GID (0000000200000001).
+2/6/2017 1:17:16 PM : Inserting entity with GID (0000000300000001).
+2/6/2017 1:17:16 PM : Inserting entity with GID (0000000400000001).
+2/6/2017 1:17:16 PM : Inserting entity with GID (0000000500000001).
+2/6/2017 1:17:16 PM : Inserting entity with GID (0000000600000001).
+2/6/2017 1:17:17 PM : The WCF service GenericDataAccess is ready.
+2/6/2017 1:17:17 PM : Endpoints:
+2/6/2017 1:17:17 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+2/6/2017 1:17:17 PM : Connection string: ../NetworkModelData.data
+2/6/2017 1:17:17 PM : Trace level: Info
+2/6/2017 1:17:17 PM : The Network Model Service is started.
+2/6/2017 1:17:17 PM : Press <Enter> to stop the service.
+2/6/2017 1:18:03 PM : Failed to get related values for source GID = 0x0000000300000001. Entity with GID = 0x0000000300000001 does not contain prperty with Id = EQUIPMENTCONTAINER_EQUIPMENTS..
+2/6/2017 1:18:03 PM : Getting related values for resource with ID = 0x0000000300000001 failed. Failed to get related values for source GID = 0x0000000300000001. Entity with GID = 0x0000000300000001 does not contain prperty with Id = EQUIPMENTCONTAINER_EQUIPMENTS..
+2/6/2017 1:20:07 PM : Starting Network Model Serivice...
+2/6/2017 1:20:07 PM : Inserting entity with GID (0000000100000001).
+2/6/2017 1:20:07 PM : Inserting entity with GID (0000000200000001).
+2/6/2017 1:20:07 PM : Inserting entity with GID (0000000300000001).
+2/6/2017 1:20:07 PM : Inserting entity with GID (0000000400000001).
+2/6/2017 1:20:07 PM : Inserting entity with GID (0000000500000001).
+2/6/2017 1:20:07 PM : Inserting entity with GID (0000000600000001).
+2/6/2017 1:20:09 PM : The WCF service GenericDataAccess is ready.
+2/6/2017 1:20:09 PM : Endpoints:
+2/6/2017 1:20:09 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+2/6/2017 1:20:09 PM : Connection string: ../NetworkModelData.data
+2/6/2017 1:20:09 PM : Trace level: Info
+2/6/2017 1:20:09 PM : The Network Model Service is started.
+2/6/2017 1:20:09 PM : Press <Enter> to stop the service.
+5/28/2017 9:24:30 AM : Starting Network Model Serivice...
+5/28/2017 9:24:30 AM : Inserting entity with GID (0000000100000001).
+5/28/2017 9:24:31 AM : Inserting entity with GID (0000000200000001).
+5/28/2017 9:24:31 AM : Inserting entity with GID (0000000300000001).
+5/28/2017 9:24:31 AM : Inserting entity with GID (0000000400000001).
+5/28/2017 9:24:31 AM : Inserting entity with GID (0000000500000001).
+5/28/2017 9:24:31 AM : Inserting entity with GID (0000000600000001).
+5/28/2017 9:24:35 AM : The WCF service GenericDataAccess is ready.
+5/28/2017 9:24:35 AM : Endpoints:
+5/28/2017 9:24:36 AM : net.tcp://localhost:10000/NetworkModelService/GDA/
+5/28/2017 9:24:36 AM : Connection string: ../NetworkModelData.data
+5/28/2017 9:24:36 AM : Trace level: Info
+5/28/2017 9:24:36 AM : The Network Model Service is started.
+5/28/2017 9:24:36 AM : Press <Enter> to stop the service.
+5/28/2017 9:27:28 AM : Failed to get related values for source GID = 0x0000000500000001. Association propertyId = IDOBJ_ALIAS is not reference or reference vector type..
+5/28/2017 9:27:28 AM : Getting related values for resource with ID = 0x0000000500000001 failed. Failed to get related values for source GID = 0x0000000500000001. Association propertyId = IDOBJ_ALIAS is not reference or reference vector type..
+10/28/2017 12:13:52 PM : Starting Network Model Serivice...

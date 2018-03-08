@@ -1,0 +1,90 @@
+﻿<delta id="0">
+  <operations>
+    <operation type="insert">
+      <ResourceDescriptions count="6">
+        <ResourceDescription>
+          <id gid="0x00000001ffffffff" type="BAY" />
+          <Properties>
+            <Property id="IDOBJ_NAME" value="fsd" />
+            <Property id="IDOBJ_MRID" value="BAY_01" />
+            <Property id="IDOBJ_ALIAS" value="cvb" />
+            <Property id="BAY_ENERGYFLAG" value="1" />
+            <Property id="BAY_POWERFLAG" value="1" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002ffffffff" type="SERIESCOMPENSATOR" />
+          <Properties>
+            <Property id="IDOBJ_NAME" value="uuy" />
+            <Property id="IDOBJ_MRID" value="SC_01" />
+            <Property id="IDOBJ_ALIAS" value="gfdg" />
+            <Property id="EQUIPMENT_AGGREGATE" value="1" />
+            <Property id="EQUIPMENT_NORMALLYSERVICE" value="1" />
+            <Property id="EQUIPMENT_EC" value="0x00000001ffffffff" />
+            <Property id="SERIESCOMPENSATOR_R" value="33.2" />
+            <Property id="SERIESCOMPENSATOR_R0" value="11.2" />
+            <Property id="SERIESCOMPENSATOR_X0" value="76.3" />
+            <Property id="SERIESCOMPENSATOR_X" value="32.321" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003ffffffff" type="ACLINESEGMENT" />
+          <Properties>
+            <Property id="IDOBJ_NAME" value="acline" />
+            <Property id="IDOBJ_MRID" value="AC_01" />
+            <Property id="IDOBJ_ALIAS" value="aclinesegment" />
+            <Property id="EQUIPMENT_AGGREGATE" value="1" />
+            <Property id="EQUIPMENT_NORMALLYSERVICE" value="1" />
+            <Property id="EQUIPMENT_EC" value="0x00000001ffffffff" />
+            <Property id="CONDUCTOR_LENGTH" value="99.04" />
+            <Property id="ACLINESEGMENT_B0CH" value="11.21" />
+            <Property id="ACLINESEGMENT_BCH" value="12.1" />
+            <Property id="ACLINESEGMENT_GCH" value="33.1" />
+            <Property id="ACLINESEGMENT_G0CH" value="22.1" />
+            <Property id="ACLINESEGMENT_X" value="54.2" />
+            <Property id="ACLINESEGMENT_X0" value="43.2" />
+            <Property id="ACLINESEGMENT_R" value="65.4" />
+            <Property id="ACLINESEGMENT_R0" value="45.3" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004ffffffff" type="DCLINESEGMENT" />
+          <Properties>
+            <Property id="IDOBJ_NAME" value="slkmfdl" />
+            <Property id="IDOBJ_MRID" value="DC_01" />
+            <Property id="IDOBJ_ALIAS" value="nfkn" />
+            <Property id="EQUIPMENT_AGGREGATE" value="1" />
+            <Property id="EQUIPMENT_NORMALLYSERVICE" value="1" />
+            <Property id="EQUIPMENT_EC" value="0x00000001ffffffff" />
+            <Property id="CONDUCTOR_LENGTH" value="34.2" />
+            <Property id="DCLINESEGMENT_INDUTANCE" value="32.1" />
+            <Property id="DCLINESEGMENT_RESISTANCE" value="77.5" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000005ffffffff" type="CNODE" />
+          <Properties>
+            <Property id="IDOBJ_NAME" value="cnode" />
+            <Property id="IDOBJ_MRID" value="CNODE_001" />
+            <Property id="IDOBJ_ALIAS" value="cnode1" />
+            <Property id="CNODE_DESC" value="desc1" />
+            <Property id="CNODE_CNC" value="0x00000001ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000006ffffffff" type="TERMINAL" />
+          <Properties>
+            <Property id="IDOBJ_NAME" value="ndlknd" />
+            <Property id="IDOBJ_MRID" value="TERMINAL_01" />
+            <Property id="IDOBJ_ALIAS" value="vjvkh" />
+            <Property id="TERMINAL_CONNECTED" value="1" />
+            <Property id="TERMINAL_SEQUENCENUMBER" value="44" />
+            <Property id="TERMINAL_PHASES" value="Unknown" />
+            <Property id="TERMINAL_CN" value="0x00000005ffffffff" />
+            <Property id="TERMINAL_CE" value="0x00000004ffffffff" />
+          </Properties>
+        </ResourceDescription>
+      </ResourceDescriptions>
+    </operation>
+  </operations>
+</delta>

@@ -1,0 +1,92 @@
+C:\Users\Milica\Documents\ModelLabsProjekat\UI\bin\Debug\UI.exe
+C:\Users\Milica\Documents\ModelLabsProjekat\UI\bin\Debug\UI.pdb
+C:\Users\Milica\Documents\ModelLabsProjekat\UI\obj\x86\Debug\MainWindow.baml
+C:\Users\Milica\Documents\ModelLabsProjekat\UI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Milica\Documents\ModelLabsProjekat\UI\obj\x86\Debug\App.g.cs
+C:\Users\Milica\Documents\ModelLabsProjekat\UI\obj\x86\Debug\UI_MarkupCompile.cache
+C:\Users\Milica\Documents\ModelLabsProjekat\UI\obj\x86\Debug\UI.g.resources
+C:\Users\Milica\Documents\ModelLabsProjekat\UI\obj\x86\Debug\UI.Properties.Resources.resources
+C:\Users\Milica\Documents\ModelLabsProjekat\UI\obj\x86\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Milica\Documents\ModelLabsProjekat\UI\obj\x86\Debug\UI.exe
+C:\Users\Milica\Documents\ModelLabsProjekat\UI\obj\x86\Debug\UI.pdb
+C:\Users\Milica\Documents\ModelLabsProjekat\UI\bin\Debug\UI.exe.config
+C:\Users\Milica\Documents\ModelLabsProjekat\UI\bin\Debug\FTN.Common.dll
+C:\Users\Milica\Documents\ModelLabsProjekat\UI\bin\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\Milica\Documents\ModelLabsProjekat\UI\bin\Debug\FTN.Common.pdb
+C:\Users\Milica\Documents\ModelLabsProjekat\UI\bin\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\Milica\Documents\ModelLabsProjekat\UI\obj\x86\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Milica\Documents\ModelLabsProjekat\UI\bin\Debug\FTN.ESI.SIMES.CIM.CIMAdapter.dll
+C:\Users\Milica\Documents\ModelLabsProjekat\UI\bin\Debug\CIMParser.dll
+C:\Users\Milica\Documents\ModelLabsProjekat\UI\bin\Debug\PowerTransformerCIMProfile_Labs.dll
+C:\Users\Milica\Documents\ModelLabsProjekat\UI\bin\Debug\FTN.ESI.SIMES.CIM.CIMAdapter.pdb
+C:\Users\Milica\Documents\ModelLabsProjekat\UI\bin\Debug\CIMParser.pdb
+C:\Users\Milica\Documents\ModelLabsProjekat\UI\obj\x86\Debug\UI_MarkupCompile.lref
+C:\TEMP\PROJEKAT47\ModelLabsProjekat\UI\bin\Debug\UI.exe.config
+C:\TEMP\PROJEKAT47\ModelLabsProjekat\UI\bin\Debug\UI.exe
+C:\TEMP\PROJEKAT47\ModelLabsProjekat\UI\bin\Debug\UI.pdb
+C:\TEMP\PROJEKAT47\ModelLabsProjekat\UI\bin\Debug\FTN.Common.dll
+C:\TEMP\PROJEKAT47\ModelLabsProjekat\UI\bin\Debug\FTN.ESI.SIMES.CIM.CIMAdapter.dll
+C:\TEMP\PROJEKAT47\ModelLabsProjekat\UI\bin\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\TEMP\PROJEKAT47\ModelLabsProjekat\UI\bin\Debug\CIMParser.dll
+C:\TEMP\PROJEKAT47\ModelLabsProjekat\UI\bin\Debug\PowerTransformerCIMProfile_Labs.dll
+C:\TEMP\PROJEKAT47\ModelLabsProjekat\UI\bin\Debug\FTN.ESI.SIMES.CIM.CIMAdapter.pdb
+C:\TEMP\PROJEKAT47\ModelLabsProjekat\UI\bin\Debug\FTN.Common.pdb
+C:\TEMP\PROJEKAT47\ModelLabsProjekat\UI\bin\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\TEMP\PROJEKAT47\ModelLabsProjekat\UI\bin\Debug\CIMParser.pdb
+C:\TEMP\PROJEKAT47\ModelLabsProjekat\UI\obj\x86\Debug\UI.csprojResolveAssemblyReference.cache
+C:\TEMP\PROJEKAT47\ModelLabsProjekat\UI\obj\x86\Debug\MainWindow.g.cs
+C:\TEMP\PROJEKAT47\ModelLabsProjekat\UI\obj\x86\Debug\App.g.cs
+C:\TEMP\PROJEKAT47\ModelLabsProjekat\UI\obj\x86\Debug\UI_MarkupCompile.cache
+C:\TEMP\PROJEKAT47\ModelLabsProjekat\UI\obj\x86\Debug\UI_MarkupCompile.lref
+C:\TEMP\PROJEKAT47\ModelLabsProjekat\UI\obj\x86\Debug\MainWindow.baml
+C:\TEMP\PROJEKAT47\ModelLabsProjekat\UI\obj\x86\Debug\UI.g.resources
+C:\TEMP\PROJEKAT47\ModelLabsProjekat\UI\obj\x86\Debug\UI.Properties.Resources.resources
+C:\TEMP\PROJEKAT47\ModelLabsProjekat\UI\obj\x86\Debug\UI.csproj.GenerateResource.Cache
+C:\TEMP\PROJEKAT47\ModelLabsProjekat\UI\obj\x86\Debug\UI.exe
+C:\TEMP\PROJEKAT47\ModelLabsProjekat\UI\obj\x86\Debug\UI.pdb
+C:\Users\Milica\Documents\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\bin\Debug\UI.exe.config
+C:\Users\Milica\Documents\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\bin\Debug\UI.exe
+C:\Users\Milica\Documents\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\bin\Debug\UI.pdb
+C:\Users\Milica\Documents\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\bin\Debug\FTN.Common.dll
+C:\Users\Milica\Documents\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\bin\Debug\FTN.ESI.SIMES.CIM.CIMAdapter.dll
+C:\Users\Milica\Documents\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\bin\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\Milica\Documents\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\bin\Debug\CIMParser.dll
+C:\Users\Milica\Documents\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\bin\Debug\PowerTransformerCIMProfile_Labs.dll
+C:\Users\Milica\Documents\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\bin\Debug\FTN.ESI.SIMES.CIM.CIMAdapter.pdb
+C:\Users\Milica\Documents\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\bin\Debug\FTN.Common.pdb
+C:\Users\Milica\Documents\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\bin\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\Milica\Documents\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\bin\Debug\CIMParser.pdb
+C:\Users\Milica\Documents\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\obj\x86\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Milica\Documents\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Milica\Documents\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\obj\x86\Debug\App.g.cs
+C:\Users\Milica\Documents\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\obj\x86\Debug\UI_MarkupCompile.cache
+C:\Users\Milica\Documents\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\obj\x86\Debug\UI_MarkupCompile.lref
+C:\Users\Milica\Documents\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\obj\x86\Debug\MainWindow.baml
+C:\Users\Milica\Documents\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\obj\x86\Debug\UI.g.resources
+C:\Users\Milica\Documents\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\obj\x86\Debug\UI.Properties.Resources.resources
+C:\Users\Milica\Documents\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\obj\x86\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Milica\Documents\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\obj\x86\Debug\UI.exe
+C:\Users\Milica\Documents\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\obj\x86\Debug\UI.pdb
+E:\C\Fakultet\IV godina\INTEGRACIJE_III\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\bin\Debug\UI.exe.config
+E:\C\Fakultet\IV godina\INTEGRACIJE_III\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\bin\Debug\UI.exe
+E:\C\Fakultet\IV godina\INTEGRACIJE_III\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\bin\Debug\UI.pdb
+E:\C\Fakultet\IV godina\INTEGRACIJE_III\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\bin\Debug\FTN.Common.dll
+E:\C\Fakultet\IV godina\INTEGRACIJE_III\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\bin\Debug\FTN.ESI.SIMES.CIM.CIMAdapter.dll
+E:\C\Fakultet\IV godina\INTEGRACIJE_III\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\bin\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+E:\C\Fakultet\IV godina\INTEGRACIJE_III\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\bin\Debug\CIMParser.dll
+E:\C\Fakultet\IV godina\INTEGRACIJE_III\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\bin\Debug\PowerTransformerCIMProfile_Labs.dll
+E:\C\Fakultet\IV godina\INTEGRACIJE_III\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\bin\Debug\FTN.ESI.SIMES.CIM.CIMAdapter.pdb
+E:\C\Fakultet\IV godina\INTEGRACIJE_III\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\bin\Debug\FTN.Common.pdb
+E:\C\Fakultet\IV godina\INTEGRACIJE_III\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\bin\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+E:\C\Fakultet\IV godina\INTEGRACIJE_III\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\bin\Debug\CIMParser.pdb
+E:\C\Fakultet\IV godina\INTEGRACIJE_III\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\obj\x86\Debug\UI.csprojResolveAssemblyReference.cache
+E:\C\Fakultet\IV godina\INTEGRACIJE_III\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\obj\x86\Debug\MainWindow.g.cs
+E:\C\Fakultet\IV godina\INTEGRACIJE_III\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\obj\x86\Debug\App.g.cs
+E:\C\Fakultet\IV godina\INTEGRACIJE_III\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\obj\x86\Debug\UI_MarkupCompile.cache
+E:\C\Fakultet\IV godina\INTEGRACIJE_III\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\obj\x86\Debug\UI_MarkupCompile.lref
+E:\C\Fakultet\IV godina\INTEGRACIJE_III\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\obj\x86\Debug\MainWindow.baml
+E:\C\Fakultet\IV godina\INTEGRACIJE_III\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\obj\x86\Debug\UI.g.resources
+E:\C\Fakultet\IV godina\INTEGRACIJE_III\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\obj\x86\Debug\UI.Properties.Resources.resources
+E:\C\Fakultet\IV godina\INTEGRACIJE_III\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\obj\x86\Debug\UI.csproj.GenerateResource.Cache
+E:\C\Fakultet\IV godina\INTEGRACIJE_III\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\obj\x86\Debug\UI.exe
+E:\C\Fakultet\IV godina\INTEGRACIJE_III\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\UI\obj\x86\Debug\UI.pdb

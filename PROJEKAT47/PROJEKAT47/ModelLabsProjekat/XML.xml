@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:cim="http://iec.ch/TC57/2010/CIM-schema-cim15#"
+	xmlns:ftn="http://www.ftnydro.com/CIM15/2010/extension#">
+	<!--bay-->
+	<cim:Bay rdf:ID="BAY_01">
+		<cim:Bay.bayEnergyMeasFlag>true</cim:Bay.bayEnergyMeasFlag>
+		<cim:Bay.bayPowerMeasFlag>true</cim:Bay.bayPowerMeasFlag>
+		<cim:IdentifiedObject.aliasName>bay1</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>BAY_01</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>name_bay1</cim:IdentifiedObject.name>
+	</cim:Bay>
+	<cim:Bay rdf:ID="BAY_02">
+		<cim:Bay.bayEnergyMeasFlag>false</cim:Bay.bayEnergyMeasFlag>
+		<cim:Bay.bayPowerMeasFlag>true</cim:Bay.bayPowerMeasFlag>
+		<cim:IdentifiedObject.aliasName>bay1</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>BAY_02</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>name_bay2</cim:IdentifiedObject.name>
+	</cim:Bay>
+<!--seriesCompensator-->
+	<cim:SeriesCompensator rdf:ID="SC_01">
+		<cim:SeriesCompensator.r>33.2</cim:SeriesCompensator.r>
+		<cim:SeriesCompensator.r0>11.2</cim:SeriesCompensator.r0>
+		<cim:SeriesCompensator.x>32.321</cim:SeriesCompensator.x>
+		<cim:SeriesCompensator.x0>76.3</cim:SeriesCompensator.x0>
+		<cim:Equipment.aggregate>true</cim:Equipment.aggregate>
+		<cim:Equipment.EquipmentContainer rdf:resource="#BAY_01"/>
+		<cim:Equipment.normallyInService>true</cim:Equipment.normallyInService>
+		<cim:IdentifiedObject.aliasName>sc_01</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>SC_01</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>name_sc01</cim:IdentifiedObject.name>
+		</cim:SeriesCompensator>
+		
+		<cim:SeriesCompensator rdf:ID="SC_02">
+		<cim:SeriesCompensator.r>3323.2</cim:SeriesCompensator.r>
+		<cim:SeriesCompensator.r0>1321.2</cim:SeriesCompensator.r0>
+		<cim:SeriesCompensator.x>3232.321</cim:SeriesCompensator.x>
+		<cim:SeriesCompensator.x0>764.3</cim:SeriesCompensator.x0>
+		<cim:Equipment.aggregate>true</cim:Equipment.aggregate>
+		<cim:Equipment.EquipmentContainer rdf:resource="#BAY_01"/>
+		<cim:Equipment.normallyInService>true</cim:Equipment.normallyInService>
+		<cim:IdentifiedObject.aliasName>sc_02</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>SC_02</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>name_sc02</cim:IdentifiedObject.name>
+		</cim:SeriesCompensator>
+				<!--ACLINE-->
+	<cim:ACLineSegment rdf:ID="AC_01">
+		<cim:ACLineSegment.b0ch>11.21</cim:ACLineSegment.b0ch>
+		<cim:ACLineSegment.bch>12.1</cim:ACLineSegment.bch>
+		<cim:ACLineSegment.g0ch>22.1</cim:ACLineSegment.g0ch>
+		<cim:ACLineSegment.gch>33.1</cim:ACLineSegment.gch>
+		<cim:ACLineSegment.r>65.4</cim:ACLineSegment.r>
+		<cim:ACLineSegment.r0>45.3</cim:ACLineSegment.r0>
+		<cim:ACLineSegment.x>54.2</cim:ACLineSegment.x>
+		<cim:ACLineSegment.x0>43.2</cim:ACLineSegment.x0>
+		<cim:Conductor.length>99.04</cim:Conductor.length>
+		<cim:Equipment.aggregate>true</cim:Equipment.aggregate>
+		<cim:Equipment.EquipmentContainer rdf:resource="#BAY_01"/>
+		<cim:Equipment.normallyInService>true</cim:Equipment.normallyInService>
+		<cim:IdentifiedObject.aliasName>aclinesegment_1</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>AC_01</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>acline_1</cim:IdentifiedObject.name>
+	</cim:ACLineSegment>
+	<cim:ACLineSegment rdf:ID="AC_02">
+		<cim:ACLineSegment.b0ch>1311.21</cim:ACLineSegment.b0ch>
+		<cim:ACLineSegment.bch>123.1</cim:ACLineSegment.bch>
+		<cim:ACLineSegment.g0ch>222.1</cim:ACLineSegment.g0ch>
+		<cim:ACLineSegment.gch>334.1</cim:ACLineSegment.gch>
+		<cim:ACLineSegment.r>652.4</cim:ACLineSegment.r>
+		<cim:ACLineSegment.r0>453.3</cim:ACLineSegment.r0>
+		<cim:ACLineSegment.x>544.2</cim:ACLineSegment.x>
+		<cim:ACLineSegment.x0>433.2</cim:ACLineSegment.x0>
+		<cim:Conductor.length>992.04</cim:Conductor.length>
+		<cim:Equipment.aggregate>true</cim:Equipment.aggregate>
+		<cim:Equipment.EquipmentContainer rdf:resource="#BAY_02"/>
+		<cim:Equipment.normallyInService>true</cim:Equipment.normallyInService>
+		<cim:IdentifiedObject.aliasName>aclinesegment_2</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>AC_02</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>acline_2</cim:IdentifiedObject.name>
+	</cim:ACLineSegment>
+	<!--dcline-->
+	<cim:DCLineSegment rdf:ID="DC_01">
+		<cim:DCLineSegment.dcSegmentInductance>32.1</cim:DCLineSegment.dcSegmentInductance>
+		<cim:DCLineSegment.dcSegmentResistance>77.5</cim:DCLineSegment.dcSegmentResistance>
+		<cim:Conductor.length>34.2</cim:Conductor.length>
+		<cim:Equipment.aggregate>true</cim:Equipment.aggregate>
+		<cim:Equipment.EquipmentContainer rdf:resource="#BAY_01"/>
+		<cim:Equipment.normallyInService>true</cim:Equipment.normallyInService>
+		<cim:IdentifiedObject.aliasName>adcline_1</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>DC_01</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>dcline1</cim:IdentifiedObject.name>
+	</cim:DCLineSegment>
+	<cim:DCLineSegment rdf:ID="DC_02">
+		<cim:DCLineSegment.dcSegmentInductance>32.122</cim:DCLineSegment.dcSegmentInductance>
+		<cim:DCLineSegment.dcSegmentResistance>77.15</cim:DCLineSegment.dcSegmentResistance>
+		<cim:Conductor.length>34.22</cim:Conductor.length>
+		<cim:Equipment.aggregate>true</cim:Equipment.aggregate>
+		<cim:Equipment.EquipmentContainer rdf:resource="#BAY_01"/>
+		<cim:Equipment.normallyInService>true</cim:Equipment.normallyInService>
+		<cim:IdentifiedObject.aliasName>adcline_2</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>DC_02</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>dcline2</cim:IdentifiedObject.name>
+	</cim:DCLineSegment>
+		<!--cnode-->
+	<cim:ConnectivityNode rdf:ID="CNODE_001">
+		<cim:ConnectivityNode.ConnectivityNodeContainer rdf:resource="#BAY_01"/>
+		<cim:ConnectivityNode.description>desc1</cim:ConnectivityNode.description>
+		<cim:IdentifiedObject.aliasName>cnode1</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>CNODE_001</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>cnode_name1</cim:IdentifiedObject.name>
+	</cim:ConnectivityNode>
+		<cim:ConnectivityNode rdf:ID="CNODE_002">
+		<cim:ConnectivityNode.ConnectivityNodeContainer rdf:resource="#BAY_02"/>
+		<cim:ConnectivityNode.description>desc2</cim:ConnectivityNode.description>
+		<cim:IdentifiedObject.aliasName>cnode2</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>CNODE_002</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>cnode_name2</cim:IdentifiedObject.name>
+	</cim:ConnectivityNode>
+	<!--terminal-->
+		<cim:Terminal rdf:ID="TERMINAL_01">
+		<cim:Terminal.ConductingEquipment rdf:resource="#DC_01"/>
+		<cim:Terminal.connected>true</cim:Terminal.connected>
+		<cim:Terminal.ConnectivityNode rdf:resource="#CNODE_001"/>
+		<cim:Terminal.phases>A</cim:Terminal.phases>
+		<cim:Terminal.sequenceNumber>44</cim:Terminal.sequenceNumber>
+		<cim:IdentifiedObject.aliasName>term_1</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>TERMINAL_01</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>term_01</cim:IdentifiedObject.name>
+	</cim:Terminal>
+		<cim:Terminal rdf:ID="TERMINAL_02">
+		<cim:Terminal.ConductingEquipment rdf:resource="#DC_02"/>
+		<cim:Terminal.connected>true</cim:Terminal.connected>
+		<cim:Terminal.ConnectivityNode rdf:resource="#CNODE_002"/>
+		<cim:Terminal.phases>A</cim:Terminal.phases>
+		<cim:Terminal.sequenceNumber>13</cim:Terminal.sequenceNumber>
+		<cim:IdentifiedObject.aliasName>term_1</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>TERMINAL_02</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>term_02</cim:IdentifiedObject.name>
+	</cim:Terminal>
+
+</rdf:RDF>

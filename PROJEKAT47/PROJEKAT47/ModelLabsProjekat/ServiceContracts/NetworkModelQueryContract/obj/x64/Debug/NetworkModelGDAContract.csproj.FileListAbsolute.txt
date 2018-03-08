@@ -1,0 +1,20 @@
+C:\Users\Nemanja\Desktop\Projekat\ModelLabsProjekat\bin64\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\Nemanja\Desktop\Projekat\ModelLabsProjekat\bin64\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\Nemanja\Desktop\Projekat\ModelLabsProjekat\ServiceContracts\NetworkModelQueryContract\obj\x64\Debug\NetworkModelGDAContract.csprojResolveAssemblyReference.cache
+C:\Users\Nemanja\Desktop\Projekat\ModelLabsProjekat\ServiceContracts\NetworkModelQueryContract\obj\x64\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\Nemanja\Desktop\Projekat\ModelLabsProjekat\ServiceContracts\NetworkModelQueryContract\obj\x64\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\klijent1\Desktop\integracije\ModelLabsProjekat\ModelLabsProjekat\bin64\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\klijent1\Desktop\integracije\ModelLabsProjekat\ModelLabsProjekat\bin64\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\klijent1\Desktop\integracije\ModelLabsProjekat\ModelLabsProjekat\ServiceContracts\NetworkModelQueryContract\obj\x64\Debug\NetworkModelGDAContract.csprojResolveAssemblyReference.cache
+C:\Users\klijent1\Desktop\integracije\ModelLabsProjekat\ModelLabsProjekat\ServiceContracts\NetworkModelQueryContract\obj\x64\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\klijent1\Desktop\integracije\ModelLabsProjekat\ModelLabsProjekat\ServiceContracts\NetworkModelQueryContract\obj\x64\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\TEMP\ModelLabsProjekat\ModelLabsProjekat\bin64\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\TEMP\ModelLabsProjekat\ModelLabsProjekat\bin64\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\TEMP\ModelLabsProjekat\ModelLabsProjekat\ServiceContracts\NetworkModelQueryContract\obj\x64\Debug\NetworkModelGDAContract.csprojResolveAssemblyReference.cache
+C:\TEMP\ModelLabsProjekat\ModelLabsProjekat\ServiceContracts\NetworkModelQueryContract\obj\x64\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\TEMP\ModelLabsProjekat\ModelLabsProjekat\ServiceContracts\NetworkModelQueryContract\obj\x64\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+E:\C\Fakultet\IV godina\INTEGRACIJE_III\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\bin64\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+E:\C\Fakultet\IV godina\INTEGRACIJE_III\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\bin64\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+E:\C\Fakultet\IV godina\INTEGRACIJE_III\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\ServiceContracts\NetworkModelQueryContract\obj\x64\Debug\NetworkModelGDAContract.csprojResolveAssemblyReference.cache
+E:\C\Fakultet\IV godina\INTEGRACIJE_III\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\ServiceContracts\NetworkModelQueryContract\obj\x64\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+E:\C\Fakultet\IV godina\INTEGRACIJE_III\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\ServiceContracts\NetworkModelQueryContract\obj\x64\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb

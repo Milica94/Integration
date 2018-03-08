@@ -1,0 +1,15 @@
+C:\Users\Nemanja\Desktop\Projekat\ModelLabsProjekat\bin64\FTN.Services.NetworkModelService.dll
+C:\Users\Nemanja\Desktop\Projekat\ModelLabsProjekat\bin64\FTN.Services.NetworkModelService.pdb
+C:\Users\Nemanja\Desktop\Projekat\ModelLabsProjekat\NetworkModelService\obj\x64\Debug\NetworkModelService.csprojResolveAssemblyReference.cache
+C:\Users\Nemanja\Desktop\Projekat\ModelLabsProjekat\NetworkModelService\obj\x64\Debug\FTN.Services.NetworkModelService.dll
+C:\Users\Nemanja\Desktop\Projekat\ModelLabsProjekat\NetworkModelService\obj\x64\Debug\FTN.Services.NetworkModelService.pdb
+C:\Users\klijent1\Desktop\integracije\ModelLabsProjekat\ModelLabsProjekat\bin64\FTN.Services.NetworkModelService.dll
+C:\Users\klijent1\Desktop\integracije\ModelLabsProjekat\ModelLabsProjekat\bin64\FTN.Services.NetworkModelService.pdb
+C:\Users\klijent1\Desktop\integracije\ModelLabsProjekat\ModelLabsProjekat\NetworkModelService\obj\x64\Debug\NetworkModelService.csprojResolveAssemblyReference.cache
+C:\Users\klijent1\Desktop\integracije\ModelLabsProjekat\ModelLabsProjekat\NetworkModelService\obj\x64\Debug\FTN.Services.NetworkModelService.dll
+C:\Users\klijent1\Desktop\integracije\ModelLabsProjekat\ModelLabsProjekat\NetworkModelService\obj\x64\Debug\FTN.Services.NetworkModelService.pdb
+C:\TEMP\ModelLabsProjekat\ModelLabsProjekat\bin64\FTN.Services.NetworkModelService.dll
+C:\TEMP\ModelLabsProjekat\ModelLabsProjekat\bin64\FTN.Services.NetworkModelService.pdb
+C:\TEMP\ModelLabsProjekat\ModelLabsProjekat\NetworkModelService\obj\x64\Debug\NetworkModelService.csprojResolveAssemblyReference.cache
+C:\TEMP\ModelLabsProjekat\ModelLabsProjekat\NetworkModelService\obj\x64\Debug\FTN.Services.NetworkModelService.dll
+C:\TEMP\ModelLabsProjekat\ModelLabsProjekat\NetworkModelService\obj\x64\Debug\FTN.Services.NetworkModelService.pdb

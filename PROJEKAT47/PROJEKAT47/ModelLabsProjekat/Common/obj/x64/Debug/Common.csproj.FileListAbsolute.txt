@@ -1,0 +1,19 @@
+C:\Users\Nemanja\Desktop\Projekat\ModelLabsProjekat\bin64\FTN.Common.dll
+C:\Users\Nemanja\Desktop\Projekat\ModelLabsProjekat\bin64\FTN.Common.pdb
+C:\Users\Nemanja\Desktop\Projekat\ModelLabsProjekat\Common\obj\x64\Debug\FTN.Common.dll
+C:\Users\Nemanja\Desktop\Projekat\ModelLabsProjekat\Common\obj\x64\Debug\FTN.Common.pdb
+C:\Users\klijent1\Desktop\integracije\ModelLabsProjekat\ModelLabsProjekat\bin64\FTN.Common.dll
+C:\Users\klijent1\Desktop\integracije\ModelLabsProjekat\ModelLabsProjekat\bin64\FTN.Common.pdb
+C:\Users\klijent1\Desktop\integracije\ModelLabsProjekat\ModelLabsProjekat\Common\obj\x64\Debug\FTN.Common.dll
+C:\Users\klijent1\Desktop\integracije\ModelLabsProjekat\ModelLabsProjekat\Common\obj\x64\Debug\FTN.Common.pdb
+C:\Users\klijent1\Desktop\integracije\ModelLabsProjekat\ModelLabsProjekat\Common\obj\x64\Debug\Common.csprojResolveAssemblyReference.cache
+C:\TEMP\ModelLabsProjekat\ModelLabsProjekat\bin64\FTN.Common.dll
+C:\TEMP\ModelLabsProjekat\ModelLabsProjekat\bin64\FTN.Common.pdb
+C:\TEMP\ModelLabsProjekat\ModelLabsProjekat\Common\obj\x64\Debug\Common.csprojResolveAssemblyReference.cache
+C:\TEMP\ModelLabsProjekat\ModelLabsProjekat\Common\obj\x64\Debug\FTN.Common.dll
+C:\TEMP\ModelLabsProjekat\ModelLabsProjekat\Common\obj\x64\Debug\FTN.Common.pdb
+E:\C\Fakultet\IV godina\INTEGRACIJE_III\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\bin64\FTN.Common.dll
+E:\C\Fakultet\IV godina\INTEGRACIJE_III\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\bin64\FTN.Common.pdb
+E:\C\Fakultet\IV godina\INTEGRACIJE_III\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\Common\obj\x64\Debug\Common.csprojResolveAssemblyReference.cache
+E:\C\Fakultet\IV godina\INTEGRACIJE_III\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\Common\obj\x64\Debug\FTN.Common.dll
+E:\C\Fakultet\IV godina\INTEGRACIJE_III\PROJEKAT47\PROJEKAT47\ModelLabsProjekat\Common\obj\x64\Debug\FTN.Common.pdb
